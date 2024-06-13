@@ -1,4 +1,4 @@
-FROM xldevops/jdk21-lts
+FROM xldevops/jdk17-lts
 
 WORKDIR /home/user/ubuntu
 
